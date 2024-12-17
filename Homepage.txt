@@ -1,0 +1,29 @@
+Homepage [These Settings Are For Bookmarks That Are Linked To Homepage]
+
+<body style="background-color:#E6E6FA; font-family:Comic Sans MS, 'Courier New', monospace">
+	<B>
+
+		Add Text Or Bookmark Data Here
+</body>
+
+# Remove From favorites
+
+Innerwear
+Intimate [From Hygiene]
+
+# Add To Ungoogled
+
+    <a href="https://dash.infinityfree.com/">InfintyFree</a>
+    <a href="https://forums.mydigitallife.net/threads/office-r-tool-project.84450/">Office(R)Tool</a>
+    <a href="https://whoogle-search-e416.onrender.com/">Whoogle</a>
+    <a href="https://chatgpt.com/">ChatGPT</a>
+    <a href="https://www.perplexity.ai/">Perplexity</a>
+    <a href="https://invideo.io/make/ai-video-generator/">Invideo</a>
+    <a href="https://gpt4o.so/app">gpt4o</a>
+    <a href="https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&amp;ia=chat&amp;duckai=1&amp;atb=v405-1">AI Chat</a>
+    <a href="https://chat.olakrutrim.com/home">Krutrim</a>
+    <a href="https://venice.ai/">Venice</a>
+    <a href="https://www.meta.ai/">MetaAI</a>
+    <a href="https://lambda.chat/chatui/">Lambda</a>
+    <a href="https://cloud.sambanova.ai/">SambaNova</a>
+    <a href="https://pi.ai/onboarding">Pi</a>
