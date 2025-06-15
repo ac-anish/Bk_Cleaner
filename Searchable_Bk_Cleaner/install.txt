@@ -1,0 +1,7 @@
+Type this command:
+
+	pip install beautifulsoup4
+
+If that doesn't work, try:
+
+	python -m pip install beautifulsoup4

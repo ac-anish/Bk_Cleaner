@@ -1,13 +1,18 @@
 Homepage [These Settings Are For Bookmarks That Are Linked To Homepage]
 
+<body style="background-color:#E6E6FA; font-family:Comic Sans MS, 'Courier New', monospace">
+	<B>
+
+		Add Text Or Bookmark Data Here
+</body>
+
 # Remove From favorites
 
 Innerwear
 Intimate [From Hygiene]
 
-# Add To Ungoogled - Replace "Shows" With "DuckDuckGo"
+# Add To Ungoogled
 
-<h3>DuckDuckGo</h3>
 <div class='category'>
   <a href="https://dash.infinityfree.com/" target="_blank" rel="noopener noreferrer">InfintyFree</a>
   <a href="https://forums.mydigitallife.net/threads/office-r-tool-project.84450/" target="_blank" rel="noopener noreferrer">Office(R)Tool</a>

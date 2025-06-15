@@ -6,13 +6,6 @@ After installing python, to install the dependency run the following command:
 pip install -r requirements.txt
 
 -----------------
-Type this command:
-	pip install beautifulsoup4
-
-If that doesn't work, try:
-	python -m pip install beautifulsoup4
-
------------------
 To fix error during installation
 
 https://visualstudio.microsoft.com/visual-cpp-build-tools/
