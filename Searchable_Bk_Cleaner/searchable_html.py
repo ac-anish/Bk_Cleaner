@@ -138,25 +138,18 @@ def main():
 <script>
 const searchBox = document.getElementById('searchBox');
 const container = document.getElementById('bookmarksContainer');
-
 searchBox.addEventListener('input', () => {
   const filter = searchBox.value.toLowerCase();
-  const headings = container.querySelectorAll('h3');
-
-  headings.forEach(h3 => {
-    const category = h3.nextElementSibling;
+  const categories = container.querySelectorAll('.category');
+  categories.forEach(category => {
     const links = category.querySelectorAll('a');
     let anyVisible = false;
-
     links.forEach(link => {
       const match = link.textContent.toLowerCase().includes(filter);
       link.style.display = match ? 'inline-block' : 'none';
       if (match) anyVisible = true;
     });
-
-    // Show/hide the whole section
-    h3.style.display = anyVisible ? '' : 'none';
-    category.style.display = anyVisible ? 'flex' : 'none';
+    category.style.display = anyVisible ? '' : 'none';
   });
 });
 </script>
