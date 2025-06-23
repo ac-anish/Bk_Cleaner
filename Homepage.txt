@@ -9,34 +9,42 @@ Intimate [From Hygiene]
 
 <h3>DuckDuckGo</h3>
 <div class='category'>
-  <a href="https://dash.infinityfree.com/" target="_blank" rel="noopener noreferrer">InfintyFree</a>
-  <a href="https://forums.mydigitallife.net/threads/office-r-tool-project.84450/" target="_blank" rel="noopener noreferrer">Office(R)Tool</a>
-  <a href="https://whoogle-search-e416.onrender.com/" target="_blank" rel="noopener noreferrer">Whoogle</a>
-  <a href="https://www.dwservice.net/en/home.html" target="_blank" rel="noopener noreferrer">DWService</a>
-  <a href="https://chatgpt.com/" target="_blank" rel="noopener noreferrer">ChatGPT</a>
-  <a href="https://www.perplexity.ai/" target="_blank" rel="noopener noreferrer">Perplexity</a>
-  <a href="https://invideo.io/make/ai-video-generator/" target="_blank" rel="noopener noreferrer">Invideo</a>
-  <a href="https://gpt4o.so/app" target="_blank" rel="noopener noreferrer">gpt4o</a>
-  <a href="https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1&atb=v405-1" target="_blank" rel="noopener noreferrer">AI Chat</a>
-  <a href="https://chat.olakrutrim.com/home" target="_blank" rel="noopener noreferrer">Krutrim</a>
-  <a href="https://venice.ai/" target="_blank" rel="noopener noreferrer">Venice</a>
-  <a href="https://www.homepage.org/" target="_blank" rel="noopener noreferrer">Homepage</a>
-  <a href="https://web.whatsapp.com/" target="_blank" rel="noopener noreferrer">WhatsApp</a>
-  <a href="https://www.meta.ai/" target="_blank" rel="noopener noreferrer">MetaAI</a>
-  <a href="https://lambda.chat/chatui/" target="_blank" rel="noopener noreferrer">Lambda</a>
-  <a href="https://cloud.sambanova.ai/" target="_blank" rel="noopener noreferrer">SambaNova</a>
-  <a href="https://pi.ai/onboarding" target="_blank" rel="noopener noreferrer">Pi</a>
-  <a href="https://www.icloud.com/" target="_blank" rel="noopener noreferrer">iCloud</a>
-  <a href="https://chatgpt.com/?hints=search" target="_blank" rel="noopener noreferrer">ChatGPT Search</a>
-  <a href="https://grok.com/" target="_blank" rel="noopener noreferrer">Grok</a>
-  <a href="https://www.deepseek.com/" target="_blank" rel="noopener noreferrer">DeepSeek</a>
-  <a href="https://gemini.google.com/app" target="_blank" rel="noopener noreferrer">Gemini</a>
-  <a href="https://claude.ai/" target="_blank" rel="noopener noreferrer">Claude</a>
-  <a href="https://chat.qwen.ai/" target="_blank" rel="noopener noreferrer">Qwen</a>
-  <a href="https://www.heygen.com/" target="_blank" rel="noopener noreferrer">HeyGen</a>
-  <a href="https://www.sarvam.ai/apis/text-to-speech" target="_blank" rel="noopener noreferrer">Sarvam</a>
-  <a href="https://www.openleaf.xyz/info" target="_blank" rel="noopener noreferrer">openleaf</a>
-  <a href="https://chatgpt.com/codex" target="_blank" rel="noopener noreferrer">Codex</a>
-  <a href="https://copilot.microsoft.com/" target="_blank" rel="noopener noreferrer">Copilot</a>
+  <a href="https://login.tailscale.com/login" target="_blank">Tailscale</a>
+  <a href="https://dash.infinityfree.com/" target="_blank">InfintyFree</a>
+  <a href="https://forums.mydigitallife.net/threads/office-r-tool-project.84450/" target="_blank">Office(R)Tool</a>
+  <a href="https://whoogle-search-e416.onrender.com/" target="_blank">Whoogle</a>
+  <a href="https://www.dwservice.net/en/home.html" target="_blank">DWService</a>
+  <a href="https://chatgpt.com/" target="_blank">ChatGPT</a>
+  <a href="https://www.perplexity.ai/" target="_blank">Perplexity</a>
+  <a href="https://invideo.io/make/ai-video-generator/" target="_blank">Invideo</a>
+  <a href="https://gpt4o.so/app" target="_blank">gpt4o</a>
+  <a href="https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1&atb=v405-1" target="_blank">AI Chat</a>
+  <a href="https://chat.olakrutrim.com/home" target="_blank">Krutrim</a>
+  <a href="https://venice.ai/" target="_blank">Venice</a>
+  <a href="https://www.homepage.org/" target="_blank">Homepage</a>
+  <a href="https://web.whatsapp.com/" target="_blank">WhatsApp</a>
+  <a href="https://www.meta.ai/" target="_blank">MetaAI</a>
+  <a href="https://lambda.chat/chatui/" target="_blank">Lambda</a>
+  <a href="https://cloud.sambanova.ai/" target="_blank">SambaNova</a>
+  <a href="https://pi.ai/onboarding" target="_blank">Pi</a>
+  <a href="https://www.icloud.com/" target="_blank">iCloud</a>
+  <a href="https://chatgpt.com/?hints=search" target="_blank">ChatGPT Search</a>
+  <a href="https://grok.com/" target="_blank">Grok</a>
+  <a href="https://www.deepseek.com/" target="_blank">DeepSeek</a>
+  <a href="https://gemini.google.com/app" target="_blank">Gemini</a>
+  <a href="https://claude.ai/" target="_blank">Claude</a>
+  <a href="https://chat.qwen.ai/" target="_blank">Qwen</a>
+  <a href="https://www.heygen.com/" target="_blank">HeyGen</a>
+  <a href="https://www.sarvam.ai/apis/text-to-speech" target="_blank">Sarvam</a>
+  <a href="https://www.openleaf.xyz/info" target="_blank">openleaf</a>
+  <a href="https://chatgpt.com/codex" target="_blank">Codex</a>
+  <a href="https://copilot.microsoft.com/" target="_blank">Copilot</a>
+  <a href="https://www.phind.com/" target="_blank">Phind</a>
+  <a href="https://www.kruti.ai/" target="_blank">Kruti</a>
+  <a href="https://leta.mullvad.net/" target="_blank">Leta</a>
+  <a href="https://manus.im/" target="_blank">Manus</a>
+  <a href="https://www.krea.ai/" target="_blank">Krea</a>
+  <a href="https://www.perplexity.ai/?model_id=deep_research" target="_blank">Perplexity Deep Research</a>
+  <a href="https://www.tryshiro.com/" target="_blank">Shiro</a>
+  <a href="https://chat.minimax.io/" target="_blank">MiniMax</a>
 </div>
-
