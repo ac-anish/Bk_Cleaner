@@ -1,10 +1,3 @@
-Homepage [These Settings Are For Bookmarks That Are Linked To Homepage]
-
-# Remove From favorites
-
-Innerwear
-Intimate [From Hygiene]
-
 # Add To Ungoogled - Replace "Shows" With "DuckDuckGo"
 
 <h3>DuckDuckGo</h3>
