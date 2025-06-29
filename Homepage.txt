@@ -41,4 +41,5 @@
   <a href="https://www.perplexity.ai/?model_id=deep_research" target="_blank">Perplexity Deep Research</a>
   <a href="https://www.tryshiro.com/" target="_blank">Shiro</a>
   <a href="https://chat.minimax.io/" target="_blank">MiniMax</a>
+  <a href="https://ideogram.ai/t/explore" target="_blank">Ideogram</a>
 </div>
