@@ -6,13 +6,6 @@ After installing python, to install the dependency run the following command:
 pip install -r requirements.txt
 
 -----------------
-Type this command:
-	pip install beautifulsoup4
-
-If that doesn't work, try:
-	python -m pip install beautifulsoup4
-
------------------
 To fix error during installation
 
 https://visualstudio.microsoft.com/visual-cpp-build-tools/
@@ -29,4 +22,4 @@ if you install in program file for all users, user admin cmd to run the above co
 
 and now to run the file. assuming you are in the same directory as the python file run the following command: 
 
-python.exe bookmark_parser.py your_html_file_name.html
+python main.py your_html_file_name.html
